@@ -1,6 +1,17 @@
-{
-  "privacyManifestVersion": "1.0",
-  "dataCategories": [],
-  "trackingDomains": [],
-  "privacyPolicy": {https://sites.google.com/view/basic9/home}
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>NSPrivacyAccessedAPITypes</key>
+		<array>
+			<dict>
+				<key>NSPrivacyAccessedAPIType</key>
+				<string>NSPrivacyAccessedAPICategoryUserDefaults</string>
+				<key>NSPrivacyAccessedAPITypeReasons</key>
+				<array>
+ 					<string>CA92.1</string>
+				</array>
+			</dict>
+		</array><key>NSPrivacyCollectedDataTypes</key><array></array>
+	</dict>
+</plist>
